@@ -1,0 +1,14 @@
+# folder
+__pycache__
+.venv
+debug
+out
+out_json
+output
+output_json
+vector_store
+
+
+# file
+*.log
+*.pdf

@@ -1,0 +1,5 @@
+camelot-py
+opencv-python-headless
+pdfplumber
+sqlalchemy
+pymysql

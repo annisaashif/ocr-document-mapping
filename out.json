@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "ref_doc": "JCC-PE-PS-003",
+    "type": "MC-HL",
+    "size": "3 x 2 AWG + 3 x 10 AWG",
+    "rate_voltage": "15 kV",
+    "ref_spec": [],
+    "number": "DMCHL3002301015E",
+    "date": {
+      "established": "30-Sep-15",
+      "revised": "16-Feb-24",
+      "revision_number": 2
+    },
+    "page": "1/2"
+  },
+  "marking": {
+    "tipe_marking": "Cable Marking by Ink Jet Printing, with interval max. 500 mm",
+    "kalimat_marking": "JEMBO CABLE MC-HL 3 x 2 AWG + 3 x 10 AWG 15 kV \"Year\" \"Length Marking\"",
+    "length_marking": "Length marking by Ink-Jet Printing with interval 1 meter"
+  },
+  "section": {
+    "conductor": {
+      "technical_specs": [
+        {
+          "description": "Number/diameter of wire",
+          "unit": "mm",
+          "specified": "7 / 2.59 ± 0.01"
+        },
+        {
+          "description": "Conductor shape",
+          "unit": "-",
+          "specified": "Compacted Circular Stranded"
+        },
+        {
+          "description": "Outer diameter",
+          "unit": "mm",
+          "specified": "6.89 + 0.1"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "Annealed Copper Wire",
+          "quantity": "905.7",
+          "unit": "kg/km"
+        }
+      ],
+      "layers": [
+        {
+          "description": "OD/LP/DL of outer layer 1st Layer",
+          "construction": "1 + 6 Wire",
+          "unit": "mm/-",
+          "specified": "6.89 / 93 - 100 / S"
+        }
+      ]
+    },
+    "conductor_shielding": {
+      "technical_specs": [
+        {
+          "description": "Average thickness",
+          "unit": "mm",
+          "specified": "0.5"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "Semiconductive IS PEROXIDE",
+          "quantity": "47.4",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "insulation": {
+      "technical_specs": [
+        {
+          "description": "Nom. thickness",
+          "unit": "mm",
+          "specified": "5.6"
+        },
+        {
+          "description": "Minimum thickness at any point",
+          "unit": "mm",
+          "specified": "4.93"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "EPR",
+          "quantity": "1063.5",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "insulation_shielding": {
+      "technical_specs": [
+        {
+          "description": "Average thickness",
+          "unit": "mm",
+          "specified": "0.5"
+        },
+        {
+          "description": "Outer diameter Nom",
+          "unit": "mm",
+          "specified": "20.6"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "Strippable Semiconductive OS PEROXIDE",
+          "quantity": "118.6",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "metallic_screen": {
+      "technical_specs": [
+        {
+          "description": "No. / size of copper tape",
+          "unit": "n/mm",
+          "specified": "1 ( 30 x 0.1 )"
+        },
+        {
+          "description": "Min. OL/DL of copper tape",
+          "unit": "%/-",
+          "specified": "20 / S"
+        },
+        {
+          "description": "Core identification",
+          "unit": "-",
+          "specified": "Black, Red, Blue"
+        },
+        {
+          "description": "Outer diameter Approx",
+          "unit": "mm",
+          "specified": "21.2"
+        },
+        {
+          "description": "6 Pilot Cable, AWG 10 rm, stranded",
+          "unit": "-",
+          "specified": "-"
+        },
+        {
+          "description": "* Bare Conductor",
+          "unit": "-",
+          "specified": "-"
+        },
+        {
+          "description": "Number/diameter of wire",
+          "unit": "n/mm",
+          "specified": "7 / 0.98 ± 0.01"
+        },
+        {
+          "description": "Conductor shape",
+          "unit": "-",
+          "specified": "Round Compressed Stranded"
+        },
+        {
+          "description": "1st Layer 1 + 6 Wire",
+          "unit": "mm/-",
+          "specified": "2.79 / 38 - 40 / S"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "Copper Tape",
+          "quantity": "219.2",
+          "unit": "kg/km"
+        },
+        {
+          "type": "Binder Tape",
+          "quantity": "0.56",
+          "unit": "kg/km"
+        },
+        {
+          "type": "Annealed Copper wire",
+          "quantity": "141.8",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "cabling": {
+      "technical_specs": [
+        {
+          "description": "Centre filler",
+          "unit": "n/denier",
+          "specified": "1 / ( 1 x 100,000 + 1 x 10,000 )"
+        },
+        {
+          "description": "Filler 3 core",
+          "unit": "n/denier",
+          "specified": "3 / ( 11 x 100,000 + 1 x 10,000 )"
+        },
+        {
+          "description": "Pilot + PPY",
+          "unit": "n/denier",
+          "specified": "3 / ( 2 x 10,000 )"
+        },
+        {
+          "description": "OD/LP/DL",
+          "unit": "mm",
+          "specified": "918 - 1010 / Z"
+        },
+        {
+          "description": "No./dimension of polyester tape",
+          "unit": "n/mm",
+          "specified": "2 ( 60 x 0.05 )"
+        },
+        {
+          "description": "Min. OV/DL of tape",
+          "unit": "%/-",
+          "specified": "20 / S"
+        },
+        {
+          "description": "Outer diameter Approx.",
+          "unit": "mm",
+          "specified": "45.9"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "PP Yarn Filler ( 60 % )",
+          "quantity": "389.8",
+          "unit": "kg/km"
+        },
+        {
+          "type": "Polyester Tape",
+          "quantity": "24.36",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "armour": {
+      "technical_specs": [
+        {
+          "description": "Dimensi of armoured",
+          "unit": "mm",
+          "specified": "1 ( 205 x 1.8 )"
+        },
+        {
+          "description": "Height",
+          "unit": "mm",
+          "specified": "4.0"
+        },
+        {
+          "description": "Lay Pitch / direction",
+          "unit": "mm",
+          "specified": "20 - 25"
+        },
+        {
+          "description": "Gap",
+          "unit": "mm",
+          "specified": "2.0"
+        },
+        {
+          "description": "Outer diameter Approx.",
+          "unit": "mm",
+          "specified": "59.5"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "Aluminium Corrugated ( Welded )",
+          "quantity": "1102.4",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "outer_sheath": {
+      "technical_specs": [
+        {
+          "description": "Nom.. thickness",
+          "unit": "mm",
+          "specified": "1.52"
+        },
+        {
+          "description": "Min. thickness at any point",
+          "unit": "mm",
+          "specified": "1.02"
+        },
+        {
+          "description": "Overall diameter Approx.",
+          "unit": "mm",
+          "specified": "62.9"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "PVC Sheath 704 UV Resistant RD ( Red )",
+          "quantity": "505.9",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "final_test": [
+      {
+        "test_name": "Max. DC Conductor Resistance at 20 °C",
+        "unit": "Ohm/km",
+        "specified": "Power 0.521 Pilot 3.35"
+      },
+      {
+        "test_name": "AC voltage test",
+        "unit": "kV/min.",
+        "specified": "44 / 5"
+      },
+      {
+        "test_name": "Max. Partial discharge at 1.73 Uo",
+        "unit": "pC",
+        "specified": "10"
+      },
+      {
+        "test_name": "Min. Insulation resistant at 20 °C",
+        "unit": "M.Ohm.km Power",
+        "specified": "2000"
+      },
+      {
+        "test_name": "Visual all layer",
+        "unit": "-",
+        "specified": "Ok"
+      },
+      {
+        "test_name": "Dimension",
+        "unit": "-",
+        "specified": "Ok"
+      }
+    ],
+    "pilot_cable_70_mm_insulated": {
+      "conductor": {
+        "technical_specs": [],
+        "raw_materials": []
+      },
+      "insulation": {
+        "technical_specs": [],
+        "raw_materials": []
+      }
+    },
+    "packing": {
+      "standard_length": 500,
+      "net_weight": 2260,
+      "gross_weight": 2975,
+      "drum": "Wooden Drum",
+      "drum_type": "230",
+      "drum_quantity": 4,
+      "end_cap_quantity": 8
+    }
+  },
+  "revision_history": [
+    {
+      "rev_level": "01",
+      "date": "2023-08-28",
+      "description": "Revision dimension of AL Tape ( 1.6 mm to 205 x 1.8 mm )"
+    },
+    {
+      "rev_level": "02",
+      "date": "2024-02-16",
+      "description": "Revision material of Outer Sheath : from PVC 701 to PVC 704"
+    }
+  ],
+  "id": "DMCHL3002301015E"
+}

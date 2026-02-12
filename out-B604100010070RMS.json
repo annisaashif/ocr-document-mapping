@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "ref_doc": "-",
+    "type": "AAAC-S",
+    "size": "70 mm² rm",
+    "rate_voltage": "-",
+    "ref_spec": [
+      "SPLN 41-8",
+      "SPLN 41-10"
+    ],
+    "number": "B604100010070RMS",
+    "date": {
+      "established": "17-Apr-02",
+      "revised": "08-Jan-25",
+      "revision_number": 5
+    },
+    "page": "1/1"
+  },
+  "marking": {
+    "tipe_marking": "Marking of Cable by Roll Printing",
+    "kalimat_marking": "SPLN 41-10 JEMBO CABLE AAAC-S 70 mm² <> LMK <>"
+  },
+  "section": {
+    "unknown": {
+      "technical_specs": [
+        {
+          "description": "Revision Level Revision Date",
+          "unit": "-",
+          "specified": "Description"
+        },
+        {
+          "description": "Revision number/diameter of wire 19/2.48 to 19/2.50 mm",
+          "unit": "-",
+          "specified": "-"
+        }
+      ],
+      "raw_materials": []
+    },
+    "conductor": {
+      "technical_specs": [
+        {
+          "description": "Number/diameter of wire",
+          "unit": "mm",
+          "specified": "19 / 2.25 ± 0.025"
+        },
+        {
+          "description": "Conductor shape",
+          "unit": "-",
+          "specified": "Round Stranded"
+        },
+        {
+          "description": "Construction",
+          "unit": "-",
+          "specified": "1 + 6 + 12"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "Aluminium Alloy Wire",
+          "quantity": "207.3",
+          "unit": "kg/km"
+        }
+      ],
+      "layers": [
+        {
+          "description": "OD/LP/DL of outer layer 1st Layer",
+          "construction": "1 + 6 Wire",
+          "unit": "mm/-",
+          "specified": "6.75 / 68 - 108 / S"
+        },
+        {
+          "description": "OD/LP/DL of outer layer 2nd Layer",
+          "construction": "12 Wire",
+          "unit": "mm/-",
+          "specified": "11.25 / 113 - 158 / Z"
+        }
+      ]
+    },
+    "covering": {
+      "technical_specs": [
+        {
+          "description": "Nom thickness",
+          "unit": "mm",
+          "specified": "3.0"
+        },
+        {
+          "description": "Min. Thickness at any point",
+          "unit": "mm",
+          "specified": "2.70"
+        },
+        {
+          "description": "Core identification",
+          "unit": "-",
+          "specified": "Black"
+        },
+        {
+          "description": "Outer diameter Spec. Max.",
+          "unit": "mm",
+          "specified": "17.3"
+        },
+        {
+          "description": "Marking of Cable by Roll Printing :",
+          "unit": "-",
+          "specified": "-"
+        }
+      ],
+      "raw_materials": [
+        {
+          "type": "PE Insulation",
+          "quantity": "128.27",
+          "unit": "kg/km"
+        },
+        {
+          "type": "Carbon Black",
+          "quantity": "2.64",
+          "unit": "kg/km"
+        },
+        {
+          "type": "Sylane",
+          "quantity": "1.32",
+          "unit": "kg/km"
+        }
+      ]
+    },
+    "23_nov_10": {
+      "technical_specs": [
+        {
+          "description": "Revision percentage of carbon black: 6% to 2%",
+          "unit": "-",
+          "specified": "-"
+        }
+      ],
+      "raw_materials": []
+    },
+    "11_jun_24": {
+      "technical_specs": [
+        {
+          "description": "Revision of marking : removal of \"Year\" from marking",
+          "unit": "-",
+          "specified": "-"
+        }
+      ],
+      "raw_materials": []
+    },
+    "08_jan_25": {
+      "technical_specs": [],
+      "raw_materials": []
+    }
+  },
+  "final_test": [
+    {
+      "test_name": "Max. dc conductor resistance at 20 ºC",
+      "unit": "Ohm/km",
+      "specified": "0.438"
+    },
+    {
+      "test_name": "AC voltage test",
+      "unit": "kV/min.",
+      "specified": "13 / 5"
+    },
+    {
+      "test_name": "Max resistivity of wire at 20 °C",
+      "unit": "Ohm.mm²/km",
+      "specified": "32.8"
+    },
+    {
+      "test_name": "Min. tensile strength",
+      "unit": "kg/mm²",
+      "specified": "30"
+    },
+    {
+      "test_name": "Min. Elongation",
+      "unit": "%",
+      "specified": "4"
+    },
+    {
+      "test_name": "Visual all layer",
+      "unit": "-",
+      "specified": "Ok"
+    },
+    {
+      "test_name": "Dimension",
+      "unit": "-",
+      "specified": "Ok"
+    },
+    {
+      "test_name": "4 Packing",
+      "unit": "-",
+      "specified": "-"
+    },
+    {
+      "test_name": "Standard length",
+      "unit": "m",
+      "specified": "1000"
+    },
+    {
+      "test_name": "Net. Weight",
+      "unit": "kg",
+      "specified": "339"
+    },
+    {
+      "test_name": "Gross weight",
+      "unit": "kg",
+      "specified": "485 1. All Aluminium Alloy Wire ( round stranded ) 2. Extruded XLPE Covered ( Black )"
+    },
+    {
+      "test_name": "( Tri Wahyu H. )",
+      "unit": "-",
+      "specified": "( Danu M. )"
+    },
+    {
+      "test_name": "Engineer",
+      "unit": "-",
+      "specified": "Supervisor"
+    }
+  ]
+}
