@@ -4,6 +4,7 @@ import queue
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from typing import List
+import pymupdf
 
 # ============================
 # HUBUNGKAN KE PARSER KAMU
